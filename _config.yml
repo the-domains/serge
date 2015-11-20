@@ -2,6 +2,7 @@ name: serge
 favicon: null
 layout_spectrum: 0.850854818476364
 typography_spectrum: 0.38371356786228716
+title: "Serge Jespers' Grid"
 cta:
   domain: null
   bucket: null
