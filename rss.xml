@@ -4,7 +4,7 @@
         <description><![CDATA[Serge Jespers' Grid]]></description>
         <link>https://thegrid.ai/serge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 17:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 17:02:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/serge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/serge/hello-world/index.html</link>
             <guid isPermaLink="false">811f5f11-43d0-45a8-bc43-33945b5afa94</guid>
             <pubDate>Fri, 20 Nov 2015 17:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/serge/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">54fc4b2c-fbda-48eb-accd-33931c3a6d24</guid>
-            <pubDate>Fri, 20 Nov 2015 16:58:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
