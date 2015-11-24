@@ -1,6 +1,6 @@
 name: serge
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.73848
 typography_spectrum: 0.42284
 title: "Serge Jespers' Grid"
 cta:
@@ -24,6 +24,6 @@ color:
     - '#CEAFC0'
   brandStrength: 0
   lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
